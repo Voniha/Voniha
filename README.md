@@ -1,10 +1,9 @@
 I'm Voniha, a passionate software developer with a strong foundation in both back-end and front-end technologies. My journey in tech has led me to work on a variety of exciting projects, and I'm always eager to learn and take on new challenges.
 
-- 🚀 Currently working on the [EFZG Project](https://example.com/efzg) as part of my professional endeavors.
+- 🚀 Currently working on the **SIADUS Project** as part of my professional endeavors.
 - 🎓 Studying at the Faculty of Organization and Informatics, honing my skills and deepening my knowledge.
 - 🌱 Actively learning [React](https://reactjs.org/) and [Vue](https://vuejs.org/) to expand my front-end expertise.
-- 🤝 Previously developed the [Extra FM Discord Bot](https://github.com/Voniha/extra-fm-discord-bot) and [Trovo Notify Discord Bot](https://github.com/Voniha/trovo-notify-discord-bot).
-- 📧 Reach me on Discord: voniha.dev
+- 📧 Reach me on Discord: voniha
 - 🎸 Fun Fact: When I'm not coding, I enjoy playing the guitar to unwind.
 
 ## Let's Connect:
@@ -31,8 +30,8 @@ I'm Voniha, a passionate software developer with a strong foundation in both bac
 ![Voniha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Voniha&show_icons=true&theme=radical)
 
 ## Featured Projects:
-- 🎨 [Extra FM Discord Bot](https://github.com/Voniha/extra-fm-discord-bot) - A powerful Discord bot developed for Extra FM, featuring a variety of commands and integrations.
-- 🚀 [Trovo Notify Discord Bot](https://github.com/Voniha/trovo-notify-discord-bot) - A bot designed to notify Discord users of live streams and events on Trovo.
+- 🎨 [Extra FM Discord Bot](https://top.gg/bot/583392122267500595) - A powerful Discord bot developed for Extra FM, featuring a variety of commands and integrations.
+- 🚀 [Trovo Notify Discord Bot](https://top.gg/bot/918878224405131314) - A bot designed to notify Discord users of live streams and events on Trovo.
 
 ## Ongoing Learning & Development:
 - 🌟 I'm currently diving deep into React and Vue, enhancing my front-end capabilities to create dynamic and responsive user interfaces.
