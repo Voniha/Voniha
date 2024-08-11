@@ -4,7 +4,7 @@ I'm Voniha, a passionate software developer with a strong foundation in both bac
 - 🎓 Studying at the Faculty of Organization and Informatics, honing my skills and deepening my knowledge.
 - 🌱 Actively learning [React](https://reactjs.org/) and [Vue](https://vuejs.org/) to expand my front-end expertise.
 - 📧 Reach me on Discord: **voniha**
-- 🎸 Fun Fact: When I'm not coding, I enjoy playing the guitar to unwind.
+- 🎸 Fun Fact: When I'm not coding, I enjoy listening music, planning and hanging out with friends.
 
 ## Technologies & Tools:
 - **Languages**: 
