@@ -25,8 +25,8 @@ I'm Voniha, a passionate software developer with a strong foundation in both bac
 ![Voniha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Voniha&show_icons=true&theme=radical)
 
 ## Featured Projects:
-- 🎨 [Extra FM Discord Bot](https://top.gg/bot/583392122267500595) - A powerful Discord bot developed for Extra FM, featuring a variety of commands and integrations.
-- 🚀 [Trovo Notify Discord Bot](https://top.gg/bot/918878224405131314) - A bot designed to notify Discord users of live streams and events on Trovo.
+- 🎨 [Extra FM Discord Bot](https://top.gg/bot/583392122267500595) - A powerful Discord bot developed for Extra FM radio station listening in real time, its featuring a variety of commands and integrations.
+- 🚀 [Trovo Notify Discord Bot](https://top.gg/bot/918878224405131314) - A bot designed to notify Discord users of live streams on Trovo.
 
 ## Ongoing Learning & Development:
 - 🌟 I'm currently diving deep into React and Vue, enhancing my front-end capabilities to create dynamic and responsive user interfaces.
