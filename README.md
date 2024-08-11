@@ -3,13 +3,8 @@ I'm Voniha, a passionate software developer with a strong foundation in both bac
 - 🚀 Currently working on the **SIADUS Project** as part of my professional endeavors.
 - 🎓 Studying at the Faculty of Organization and Informatics, honing my skills and deepening my knowledge.
 - 🌱 Actively learning [React](https://reactjs.org/) and [Vue](https://vuejs.org/) to expand my front-end expertise.
-- 📧 Reach me on Discord: voniha
+- 📧 Reach me on Discord: **voniha**
 - 🎸 Fun Fact: When I'm not coding, I enjoy playing the guitar to unwind.
-
-## Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/voniha)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Voniha)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/voniha)
 
 ## Technologies & Tools:
 - **Languages**: 
